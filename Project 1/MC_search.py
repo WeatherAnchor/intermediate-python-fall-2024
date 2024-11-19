@@ -80,10 +80,7 @@ df = pd.read_csv("mc_items.csv", header=[0, 1])  # Adjust headers for multi-inde
 if isinstance(df.columns, pd.MultiIndex):
     df.columns = ['_'.join(col).strip() if isinstance(col, tuple) else col for col in df.columns]
 
-# # Display columns to verify correct loading
-# st.write("DataFrame Columns:", df.columns.tolist())
-
-# Define the function to generate keywords
+# Generating keywords
 def generate_keywords(row):
     keywords = set()
     
@@ -124,20 +121,20 @@ def generate_keywords(row):
 
     return ", ".join(keywords)
 
-# Apply the function
+# Applying the function
 df['Keywords'] = df.apply(generate_keywords, axis=1)
 
 # Save updated dataset
 df.to_csv("mc_items_keywords.csv", index=False)
 
-# Sidebar category selection (unchanged)
+# Sidebar category selection
 st.sidebar.title("Select Category")
 category = st.sidebar.radio(
     "Options",
     ["Items", "Paintings", "Entities", "Enchantments", "Structures"]
 )
 
-# Display selected category in main panel
+# Showing selected category
 st.title(f"Minecraft {category} Search System")
 
 if category == "Items":
@@ -146,10 +143,10 @@ else:
     st.write(f"""Category "{category}" coming soon.""")
     data = None
 
-# Search bar for keywords (unchanged)
+# Search bar for keywords
 keywords = st.text_input("Enter keywords (e.g., 'blue, block')").lower()
 
-# Perform the search if keywords are entered
+# Search if keywords are entered
 if keywords and data is not None:
     keyword_list = [kw.strip() for kw in keywords.split(",")]
 
@@ -159,7 +156,7 @@ if keywords and data is not None:
     # Filter rows based on keyword presence
     results = data[data['Keywords'].apply(lambda x: all(kw in x for kw in keyword_list))]
 
-    # Display results
+    # Results
     if not results.empty:
         st.write(f"Matching {category}:")
         st.dataframe(results)
