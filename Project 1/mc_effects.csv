@@ -1,0 +1,40 @@
+Effect Name,Version Added,Order Added,Creative Only,Commands Only,Obtainable Through Potions
+Instant Health,Beta 1.8 Pre-Release,1,FALSE,FALSE,TRUE
+Instant Damage,Beta 1.8 Pre-Release,2,FALSE,FALSE,TRUE
+Regeneration,Beta 1.8 Pre-Release,3,FALSE,FALSE,TRUE
+Poison,Beta 1.8 Pre-Release,4,FALSE,FALSE,TRUE
+Health Boost,1.6.1 13w23b,22,TRUE,TRUE,FALSE
+Absorption,1.6.1 13w24b,23,FALSE,FALSE,FALSE
+Wither,1.4.2 12w34a,20,FALSE,FALSE,FALSE
+Saturation,1.6.1,21,FALSE,FALSE,FALSE
+Hunger,Beta 1.8 Pre-Release,5,FALSE,FALSE,FALSE
+Strength,Beta 1.8 Pre-Release,6,FALSE,FALSE,TRUE
+Weakness,Beta 1.8 Pre-Release,7,FALSE,FALSE,TRUE
+Haste,Beta 1.8 Pre-Release,8,FALSE,FALSE,FALSE
+Mining Fatigue,Beta 1.8 Pre-Release,9,FALSE,FALSE,FALSE
+Speed,Beta 1.8 Pre-Release,10,FALSE,FALSE,TRUE
+Slowness,Beta 1.8 Pre-Release,11,FALSE,FALSE,TRUE
+Jump Boost,Beta 1.8 Pre-Release,12,FALSE,FALSE,TRUE
+Levitation,1.9 16w31a,27,FALSE,FALSE,FALSE
+Slow Falling,1.13 18w14a,28,FALSE,FALSE,TRUE
+Luck,1.9 15w44b,25,TRUE,FALSE,FALSE
+Bad Luck,1.9 15w44b,26,TRUE,TRUE,FALSE
+Glowing,1.9 15w31a,24,FALSE,FALSE,FALSE
+Invisibility,Beta 1.8 Pre-Release,13,FALSE,FALSE,TRUE
+Night Vision,Beta 1.8 Pre-Release,14,FALSE,FALSE,TRUE
+Blindness,Beta 1.8 Pre-Release,15,FALSE,FALSE,FALSE
+Darkness,1.19 Experimental Snapshot 1,33,FALSE,FALSE,FALSE
+Nausea,Beta 1.8 Pre-Release,16,FALSE,FALSE,FALSE
+Conduit Power,1.13 18w15a,29,FALSE,FALSE,FALSE
+Dolphin's Grace,1.13 18w19a,30,FALSE,FALSE,FALSE
+Water Breathing,Beta 1.8 Pre-Release,17,FALSE,FALSE,TRUE
+Fire Resistance,Beta 1.8 Pre-Release,18,FALSE,FALSE,TRUE
+Resistance,Beta 1.8 Pre-Release,19,FALSE,FALSE,TRUE
+Hero Of The Village,1.14 19w13a,32,FALSE,FALSE,FALSE
+Bad Omen,1.14 18w47a,31,FALSE,FALSE,FALSE
+Raid Omen,1.21 Experimental 24w13a,34,FALSE,FALSE,FALSE
+Trial Omen,1.21 Experimental 24w13a,35,FALSE,FALSE,FALSE
+Infested,1.21 Experimental 24w13a,36,FALSE,FALSE,TRUE
+Oozing,1.21 Experimental 24w13a,37,FALSE,FALSE,TRUE
+Weaving,1.21 Experimental 24w13a,38,FALSE,FALSE,TRUE
+Wind Charged,1.21 Experimental 24w13a,39,FALSE,FALSE,TRUE
