@@ -1,0 +1,54 @@
+﻿,,,,,,,,,
+Painting,Painting Name,Variant ID,Version Added,Order Added,OP Only,Area,Width,Height,Artist
+,,,,,,,,,
+50,,,,,4/50,,,,
+,Albanian,alban,Indev 2010223,1,FALSE,1,1,1,Kristoffer Zetterstrand
+,de_aztec,aztec,Indev 2010223,2,FALSE,1,1,1,Kristoffer Zetterstrand
+,de_aztec,aztec2,Indev 2010223,3,FALSE,1,1,1,Kristoffer Zetterstrand
+,Kebab med tre pepperoni,kebab,Indev 2010223,4,FALSE,1,1,1,Kristoffer Zetterstrand
+,Meditative,meditative,1.21 24w18a,31,FALSE,1,1,1,Sarah Boeving
+,Paradisträd,plant,Indev 2010223,5,FALSE,1,1,1,Kristoffer Zetterstrand
+,Target Successfully Bombed,bomb,Indev 2010223,6,FALSE,1,1,1,Kristoffer Zetterstrand
+,Wasteland,wasteland,Indev 2010223,7,FALSE,1,1,1,Kristoffer Zetterstrand
+,Graham,graham,Alpha v1.1.1,20,FALSE,2,1,2,Kristoffer Zetterstrand
+,Prairie Ride,prairie_ride,1.21 24w18a,32,FALSE,2,1,2,Sarah Boeving
+,Wanderer,wanderer,Indev 2010223,8,FALSE,2,1,2,Kristoffer Zetterstrand
+,Bonjour Monsieur Courbet,courbet,Indev 2010223,9,FALSE,2,2,1,Kristoffer Zetterstrand
+,Creebet,creebet,Alpha v1.1.1,21,FALSE,2,2,1,Kristoffer Zetterstrand
+,Seaside,sea,Indev 2010223,10,FALSE,2,2,1,Kristoffer Zetterstrand
+,sunset_dense,sunset,Indev 2010223,11,FALSE,2,2,1,Kristoffer Zetterstrand
+,The Pool,pool,Indev 2010223,12,FALSE,2,2,1,Kristoffer Zetterstrand
+,Baroque,baroque,1.21 24w18a,33,FALSE,4,2,2,Sarah Boeving
+,Bust,bust,Indev 2010223,13,FALSE,4,2,2,Kristoffer Zetterstrand
+,Earth,earth,1.19 22w16a,27,TRUE,4,2,2,Mojang
+,Fire,fire,1.19 22w16a,28,TRUE,4,2,2,Mojang
+,Humble,humble,1.21 24w18a,34,FALSE,4,2,2,Sarah Boeving
+,Match,match,Indev 2010223,14,FALSE,4,2,2,Kristoffer Zetterstrand
+,Skull and Roses,skull_and_roses,Indev 2010223,15,FALSE,4,2,2,Kristoffer Zetterstrand
+,The Stage Is Set,stage,Indev 2010223,16,FALSE,4,2,2,Kristoffer Zetterstrand
+,The void,void,Indev 2010223,17,FALSE,4,2,2,Kristoffer Zetterstrand
+,Water,water,1.19 22w16a,29,TRUE,4,2,2,Mojang
+,Wind,wind,1.19 22w16a,30,TRUE,4,2,2,Mojang
+,Wither,wither,1.4.2 12w36a,26,FALSE,4,2,2,Mojang
+,Bouquet,bouquet,1.21 24w18a,35,FALSE,9,3,3,Kristoffer Zetterstrand
+,Cavebird,cavebird,1.21 24w18a,36,FALSE,9,3,3,Kristoffer Zetterstrand
+,Cotán,cotan,1.21 24w18a,37,FALSE,9,3,3,Kristoffer Zetterstrand
+,Endboss,endboss,1.21 24w18a,38,FALSE,9,3,3,Kristoffer Zetterstrand
+,Fern,fern,1.21 24w18a,39,FALSE,9,3,3,Kristoffer Zetterstrand
+,Owlemons,owlemons,1.21 24w18a,40,FALSE,9,3,3,Kristoffer Zetterstrand
+,Sunflowers,sunflowers,1.21 24w18a,41,FALSE,9,3,3,Kristoffer Zetterstrand
+,Tides,tides,1.21 24w18a,42,FALSE,9,3,3,Kristoffer Zetterstrand
+,Backyard,backyard,1.21 24w18a,43,FALSE,12,3,4,Kristoffer Zetterstrand
+,Pond,pond,1.21 24w18a,44,FALSE,12,3,4,Kristoffer Zetterstrand
+,Changing,changing,1.21 24w18a,45,FALSE,8,4,2,Kristoffer Zetterstrand
+,Fighters,fighters,Indev 2010223,18,FALSE,8,4,2,Kristoffer Zetterstrand
+,Finding,finding,1.21 24w18a,46,FALSE,8,4,2,Kristoffer Zetterstrand
+,Lowmist,lowmist,1.21 24w18a,47,FALSE,8,4,2,Kristoffer Zetterstrand
+,Passage,passage,1.21 24w18a,48,FALSE,8,4,2,Kristoffer Zetterstrand
+,Kong,donkey_kong,Alpha v1.1.1,22,FALSE,12,4,3,Kristoffer Zetterstrand
+,Mortal Coil,skeleton,Alpha v1.1.1,23,FALSE,12,4,3,Kristoffer Zetterstrand
+,Orb,orb,1.21 24w18a,49,FALSE,16,4,4,Kristoffer Zetterstrand
+,Pigscene,pigscene,Alpha v1.1.1,24,FALSE,16,4,4,Kristoffer Zetterstrand
+,Pointer,pointer,Indev 2010223,19,FALSE,16,4,4,Kristoffer Zetterstrand
+,Skull On Fire,burning_skull,Beta 1.3,25,FALSE,16,4,4,Kristoffer Zetterstrand
+,Unpacked,unpacked,1.21 24w18a,50,FALSE,16,4,4,Sarah Boeving
